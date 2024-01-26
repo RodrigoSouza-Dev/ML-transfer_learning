@@ -1,4 +1,4 @@
-pip install tensorflow transformers scikit-learn
+#--> pip install tensorflow transformers scikit-learn
 
 import numpy as np
 import tensorflow as tf
