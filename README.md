@@ -4,9 +4,9 @@ Treinamento de redes neurais com transfer learning.
 Este código carrega o modelo pré-treinado BERT e ajusta-o para a tarefa específica de classificação de sentimentos. Ele usa uma pequena quantidade de dados de exemplo para treinamento e teste. A avaliação final é realizada usando um relatório de classificação que mostra métricas como precisão, recall e F1-score.
 
 
-#Aprendizado por tansferencia:
+# Aprendizado por tansferencia:
 
-O aprendizado por transferência (TL) é uma técnica de aprendizado de máquina (ML) que **reutiliza um modelo treinado projetado para uma tarefa específica para realizar uma tarefa diferente, mas relacionada**. O conhecimento adquirido da tarefa um é assim transferido para o segundo modelo que se concentra na nova tarefa.
+O aprendizado por transferência (TL) é uma técnica de aprendizado de máquina (ML) que ** reutiliza um modelo treinado projetado para uma tarefa específica para realizar uma tarefa diferente, mas relacionada **. O conhecimento adquirido da tarefa um é assim transferido para o segundo modelo que se concentra na nova tarefa.
 
 O TL pode ser usado para melhorar o desempenho de um modelo ML em uma nova tarefa, mesmo quando há pouca ou nenhuma informação disponível sobre essa tarefa. Isso ocorre porque o modelo pré-treinado já aprendeu a identificar padrões e características relevantes para as tarefas relacionadas.
 
